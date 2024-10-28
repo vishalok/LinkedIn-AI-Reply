@@ -1,4 +1,5 @@
-https://github.com/vishalok/LinkedIn-AI-Reply/blob/main/assets/video/bd741df9364340c7a6fe8c8eeb50dcd7.mp4
+
+https://github.com/user-attachments/assets/69faa713-9afe-429b-8ef2-598ed203007f
 
 
 # ‘LinkedIn AI Reply’ Chrome Extension
