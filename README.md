@@ -1,5 +1,5 @@
 
-https://github.com/user-attachments/assets/69faa713-9afe-429b-8ef2-598ed203007f
+https://github.com/user-attachments/assets/eedabc4b-21af-4ddf-99b0-3d17ab680e99
 
 
 # ‘LinkedIn AI Reply’ Chrome Extension
